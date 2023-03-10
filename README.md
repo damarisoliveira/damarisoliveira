@@ -1,6 +1,5 @@
 ##### 👩‍💻 Técnica em Informática pelo IFRN
-##### ❤️ Apaixonada por Front-end e amando me descobrir no Back-end
-##### ⌛ Trabalhando atualmente com C#
+##### ⌛ Trabalhando atualmente com C# e Laravel.
 ##### 💻 Bacharelanda em Ciência e Tecnologia com ênfase em Engenharia da Computação pela UFRN.
 ##### 📧 Email: damarisoliveirad@gmail.com
  
