@@ -9,8 +9,6 @@
 <div style="aling:center">
   <a href="https://github.com/damarisoliveira">
     
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damarisoliveira&layout=demo&langs_count=7&theme=radical"/>
-    
 </div>
   <br>
 <div style="display: inline_block">
@@ -20,8 +18,6 @@
   
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  
 </div>
   
   
